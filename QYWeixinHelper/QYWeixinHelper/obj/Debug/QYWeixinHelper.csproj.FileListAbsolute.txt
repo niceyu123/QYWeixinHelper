@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\QYWeixinHelper\QYWeixinHelper\bin\Debug\QYWeixinHelper.exe.config
+C:\Users\user\source\repos\QYWeixinHelper\QYWeixinHelper\bin\Debug\QYWeixinHelper.exe
+C:\Users\user\source\repos\QYWeixinHelper\QYWeixinHelper\bin\Debug\QYWeixinHelper.pdb
+C:\Users\user\source\repos\QYWeixinHelper\QYWeixinHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\source\repos\QYWeixinHelper\QYWeixinHelper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\source\repos\QYWeixinHelper\QYWeixinHelper\obj\Debug\QYWeixinHelper.Form1.resources
+C:\Users\user\source\repos\QYWeixinHelper\QYWeixinHelper\obj\Debug\QYWeixinHelper.Properties.Resources.resources
+C:\Users\user\source\repos\QYWeixinHelper\QYWeixinHelper\obj\Debug\QYWeixinHelper.csproj.GenerateResource.cache
+C:\Users\user\source\repos\QYWeixinHelper\QYWeixinHelper\obj\Debug\QYWeixinHelper.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\QYWeixinHelper\QYWeixinHelper\obj\Debug\QYWeixinHelper.csproj.CopyComplete
+C:\Users\user\source\repos\QYWeixinHelper\QYWeixinHelper\obj\Debug\QYWeixinHelper.exe
+C:\Users\user\source\repos\QYWeixinHelper\QYWeixinHelper\obj\Debug\QYWeixinHelper.pdb
+C:\Users\user\source\repos\QYWeixinHelper\QYWeixinHelper\obj\Debug\QYWeixinHelper.csprojAssemblyReference.cache
